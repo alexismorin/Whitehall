@@ -49,7 +49,7 @@ MeshRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5340159659314577250}
   m_Enabled: 1
-  m_CastShadows: 1
+  m_CastShadows: 2
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
   m_MotionVectors: 1
@@ -59,8 +59,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f2a7474efed4f42479a31bbfe170bcae, type: 2}
-  - {fileID: 2100000, guid: f2a7474efed4f42479a31bbfe170bcae, type: 2}
+  - {fileID: 2100000, guid: 380af229f4eff83459b8e5cb613ddad2, type: 2}
+  - {fileID: 2100000, guid: 380af229f4eff83459b8e5cb613ddad2, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
